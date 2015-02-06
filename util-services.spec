@@ -3,7 +3,7 @@
 
 Name:           util-services
 Version:        0.2.0
-Release:        %mkrel 0.0.4
+Release:        0.0.5
 Epoch:          0
 Summary:        org.freecompany.util
 License:        MIT
