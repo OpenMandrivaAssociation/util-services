@@ -8,7 +8,7 @@ Epoch:          0
 Summary:        org.freecompany.util
 License:        MIT
 Group:          Development/Java
-URL:            http://www.freecompany.org/
+URL:            https://www.freecompany.org/
 # svn export https://svn.freecompany.org/public/util/tags/util-services-0.2.0
 # zip -9r util-services-src-0.2.9.zip util-services-0.2.9
 Source0:        http://repository.freecompany.org/org/freecompany/util/zips/util-services-src-%{version}.zip
